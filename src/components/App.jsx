@@ -26,9 +26,9 @@ class App extends React.Component {
         return (
             <div className="App">
                 <header className="AppHeader">
-                    <h1>React Animations!</h1>
+                    <h1>Preact Animations!</h1>
                     <GithubCorner
-                        url="https://github.com/bukowskiadam/react-animations"
+                        url="https://github.com/bukowskiadam/preact-animations"
                         color="#222222"
                         fill="#ffffff"
                     />
